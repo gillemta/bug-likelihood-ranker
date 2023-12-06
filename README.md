@@ -30,5 +30,14 @@ These instructions will get you a copy of the project up and running on your loc
 1. modify the 'max_pages' variable to the amount of pages of commit data you wish to pull in (The default is 50 pages)
 ```max_pages = 50```
 
-Run the main program:
+2. Run the main program:
 ```python main.py```
+
+### Bearer Token
+If when running you get an error...
+```Error 401: {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}```
+You will need to insert your own bearer token into the 'GITHUB_TOKEN' variable
+```GITHUB_TOKEN = "<insert-token-here>"```
+
+Documentation on how to setup a bearer token in github can be found at:
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
