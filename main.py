@@ -8,7 +8,7 @@ import seaborn as sns
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
 from sklearn.metrics import ndcg_score, precision_score, recall_score, accuracy_score, f1_score
 
-GITHUB_TOKEN = "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"      # NOTE: User may need to insert their own github bearer token if program fails to grab repository data
+GITHUB_TOKEN = "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"      # INSERT BEARER TOKEN HERE #
 headers = {"Authorization": f"token {GITHUB_TOKEN}"}
 MAX_RETRIES = 3
 
