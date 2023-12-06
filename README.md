@@ -22,7 +22,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 1. Clone the repository:
-```git clone https://github.com/<yourusername>/bug-likelihood-ranker.git```
+```git clone https://github.com/gillemta/bug-likelihood-ranker.git```
 2. Navigate to the project directory and install the required packages:
 ```pip install -r requirements.txt```
 
