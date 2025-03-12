@@ -18,8 +18,8 @@ A Python tool using machine learning to rank repository files by bug likelihood.
 
 ## Research Artifacts
 For an in-depth look at the methodology, experimental evaluation, and outcomes, please refer to the following documents:
-- [Research Paper: Ranking Source Code for Bug Prediction: An L2R Approach on An Open Source Repository](Final Project Powerpoint.pdf)
-- [Presentation: Bug Prediction Using Learning-to-Rank](Final Project Powerpoint.pptx)
+- [Research Paper: Ranking Source Code for Bug Prediction: An L2R Approach on An Open Source Repository](Final%20Project%20Report.pdf)
+- [Presentation: Bug Prediction Using Learning-to-Rank](Final%20Project%20Powerpoint.pdf)
 
 ---
 
